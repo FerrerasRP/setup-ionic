@@ -1,6 +1,6 @@
 ## setup-ionic
 
-[![](https://github.com/coturiv/setup-ionic/workflows/CI/badge.svg)](https://github.com/coturiv/setup-ionic/actions)
+[![](https://github.com/FerrerasRP/setup-ionic/workflows/CI/badge.svg)](https://github.com/FerrerasRP/setup-ionic/actions)
 
 Set up your GitHub Actions workflow with Cordova/Ionic environment. Only supports macos & ubuntu at this time.
 
@@ -8,7 +8,7 @@ Set up your GitHub Actions workflow with Cordova/Ionic environment. Only support
 
 ```
 - name: Use coturiv/setup-ionic
-  uses: coturiv/setup-ionic@v1
+  uses: FerrerasRP/setup-ionic@v1
   with:
     java-version: 8
 - name: Use coturiv/setup-ionic
